@@ -3,10 +3,10 @@
     "guideData":{
        "adsController":{
           "networkAds":"ironSource",
-          "appKey":"14f2bb3b1",
-          "interstitielAdmob":"ca-app-pub-9959669477236869/1694638666",
-          "nativeAdmob":"ca-app-pub-9959669477236869/1494493963",
-          "bannerAdmob":"ca-app-pub-9959669477236869/6746820643"
+          "appKey":"150b94079",
+          "interstitielAdmob":"ca-app-pub-3940256099942544/1033173712",
+          "nativeAdmob":"ca-app-pub-3940256099942544/2247696110",
+          "bannerAdmob":"ca-app-pub-3940256099942544/6300978111"
        }
     }
  }
