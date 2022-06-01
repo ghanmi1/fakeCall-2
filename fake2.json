@@ -1,1 +1,12 @@
 
+{
+    "guideData":{
+       "adsController":{
+          "networkAds":"ironSource",
+          "appKey":"14f2bb3b1",
+          "interstitielAdmob":"ca-app-pub-9959669477236869/1694638666",
+          "nativeAdmob":"ca-app-pub-9959669477236869/1494493963",
+          "bannerAdmob":"ca-app-pub-9959669477236869/6746820643"
+       }
+    }
+ }
